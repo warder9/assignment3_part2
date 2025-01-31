@@ -98,6 +98,9 @@ Debugging deployment and event-related issues.
 
 Both versions of the contract were successfully implemented and tested, ensuring that the UniversityGroupToken functions as expected. Future improvements could include adding access control mechanisms and further refining event handling for enhanced security and usability.
 
+npx hardhat test test/initial_contract.js
+npx hardhat test test/modified_contract.js
+
 ![Безымянн2ый](https://github.com/user-attachments/assets/93a227ad-e48b-4dc7-b204-2184e7a489ff)
 ![Безымянн32ый](https://github.com/user-attachments/assets/733e9541-8521-49df-9d0e-883e66a51595)
 ![Безымянный](https://github.com/user-attachments/assets/5a0a186c-bcc1-488e-960b-53e87282ab8f)
